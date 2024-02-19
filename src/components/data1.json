@@ -1,0 +1,256 @@
+[
+    {
+        "quarterName": "春季上",
+        "minClassStartTime": "2025-07-07",
+        "maxClassEndTime": "2025-09-08",
+        "periodList": [
+            {
+                "name": "周一",
+                "startDate": "2025-07-07 14:00:00",
+                "endDate": "2025-09-08 15:00:00",
+                "quarterName": "春季上"
+            }
+        ],
+        "timeList": [
+            {
+                "14:00-15:00": [
+                    {
+                        "productId": 384224,
+                        "shopId": 72,
+                        "schoolId": 44,
+                        "productName": "测试一（默认-精品）",
+                        "selfProductCode": "CS1YYXXUU12345",
+                        "salePrice": 1399,
+                        "productStock": {
+                            "stockId": null,
+                            "quantity": null,
+                            "postQuantity": null,
+                            "saleQuantity": 25
+                        },
+                        "quarterCode": "6265",
+                        "quarter": "春季上",
+                        "classMode": "走读",
+                        "grade": "高一",
+                        "subject": "生物",
+                        "subjectId": "276",
+                        "classPeriod": "1,14:00~15:00",
+                        "teacherCode": "",
+                        "teachingMethod": "常规面授",
+                        "lessonPeriod": 600,
+                        "lessonNumber": 10,
+                        "currentCount": 25,
+                        "startClassTime": "2025-07-07 14:00:00",
+                        "endClassTime": "2025-09-08 15:00:00",
+                        "areaCode": "ARQD071234",
+                        "areaName": "南天门-南二门",
+                        "courseLocationDisplay": "上课地点",
+                        "courseTimeDisplay": "上课时间",
+                        "classLevelName": "不区分",
+                        "allClassPeriod": "1,14:00~15:00",
+                        "weeks": [
+                            "周一"
+                        ],
+                        "groupQuarterId": "6265",
+                        "groupQuarterName": "春季上",
+                        "groupNumberPeriodsId": "1",
+                        "groupNumberPeriodsName": "周一",
+                        "groupNumberPeriodType": 0,
+                        "groupClassPeriod": "14:00~15:00",
+                        "groupClassPeriodStart": "14:00",
+                        "groupClassPeriodEnd": "15:00",
+                        "periodShowName": "周一",
+                        "index": 0,
+                        "studentBusyState": false,
+                        "isBusy": false
+                    }
+                ]
+            }
+        ],
+        "columnList": [
+            {
+                "time_star": "14:00",
+                "time_end": "15:00",
+                "child": [
+                    {
+                        "productId": 384224,
+                        "shopId": 72,
+                        "schoolId": 44,
+                        "productName": "测试二（默认-精品）",
+                        "selfProductCode": "YTIYYI67890987002",
+                        "salePrice": 1399,
+                        "productStock": {
+                            "stockId": null,
+                            "quantity": null,
+                            "postQuantity": null,
+                            "saleQuantity": 25
+                        },
+                        "quarterCode": "6265",
+                        "quarter": "春季上",
+                        "classMode": "走读",
+                        "grade": "高一",
+                        "subject": "生物",
+                        "subjectId": "276",
+                        "classPeriod": "1,14:00~15:00",
+                        "teacherCode": "",
+                        "teachingMethod": "常规面授",
+                        "lessonPeriod": 600,
+                        "lessonNumber": 10,
+                        "currentCount": 25,
+                        "startClassTime": "2025-07-07 14:00:00",
+                        "endClassTime": "2025-09-08 15:00:00",
+                        "areaCode": "ARQD07",
+                        "areaName": "玄武门-正门",
+                        "courseLocationDisplay": "上课地点",
+                        "courseTimeDisplay": "上课时间",
+                        "classLevelName": "不区分",
+                        "allClassPeriod": "1,14:00~15:00",
+                        "weeks": [
+                            "周一"
+                        ],
+                        "groupQuarterId": "6265",
+                        "groupQuarterName": "春季上",
+                        "groupNumberPeriodsId": "1",
+                        "groupNumberPeriodsName": "周一",
+                        "groupNumberPeriodType": 0,
+                        "groupClassPeriod": "14:00~15:00",
+                        "groupClassPeriodStart": "14:00",
+                        "groupClassPeriodEnd": "15:00",
+                        "periodShowName": "周一",
+                        "index": 0,
+                        "studentBusyState": false,
+                        "isBusy": false
+                    }
+                ]
+            }
+        ],
+        "areaNames": "南京路校区"
+    },
+    {
+        "quarterName": "秋季",
+        "minClassStartTime": "2027-01-02",
+        "maxClassEndTime": "2027-01-02",
+        "periodList": [
+            {
+                "name": "周六",
+                "startDate": "2027-01-02 05:00:00",
+                "endDate": "2027-01-02 06:00:00",
+                "quarterName": "秋季"
+            }
+        ],
+        "timeList": [
+            {
+                "05:00-06:00": [
+                    {
+                        "productId": 1095027,
+                        "shopId": 72,
+                        "schoolId": 44,
+                        "productName": "测试三",
+                        "selfProductCode": "WNW322L20253008",
+                        "salePrice": 30,
+                        "productStock": {
+                            "stockId": null,
+                            "quantity": null,
+                            "postQuantity": null,
+                            "saleQuantity": 41
+                        },
+                        "quarterCode": "229",
+                        "quarter": "秋季",
+                        "classMode": "走读;住宿;在线",
+                        "grade": "高一",
+                        "subject": "物理",
+                        "subjectId": "274",
+                        "classPeriod": "6,05:00~06:00",
+                        "teacherCode": "TC23632",
+                        "teacherName": "张三",
+                        "teachingMethod": "常规面授",
+                        "lessonPeriod": 60,
+                        "lessonNumber": 1,
+                        "currentCount": 41,
+                        "startClassTime": "2027-01-02 05:00:00",
+                        "endClassTime": "2027-01-02 06:00:00",
+                        "areaCode": "ARQD232307",
+                        "areaName": "南天门-南二门",
+                        "courseLocationDisplay": "测试",
+                        "courseTimeDisplay": "测试",
+                        "classLevelName": "不区分",
+                        "allClassPeriod": "6,05:00~06:00",
+                        "weeks": [
+                            "周六"
+                        ],
+                        "groupQuarterId": "229",
+                        "groupQuarterName": "秋季",
+                        "groupNumberPeriodsId": "6",
+                        "groupNumberPeriodsName": "周六",
+                        "groupNumberPeriodType": 0,
+                        "groupClassPeriod": "05:00~06:00",
+                        "groupClassPeriodStart": "05:00",
+                        "groupClassPeriodEnd": "06:00",
+                        "periodShowName": "周六",
+                        "index": 0,
+                        "studentBusyState": false,
+                        "isBusy": false
+                    }
+                ]
+            }
+        ],
+        "columnList": [
+            {
+                "time_star": "05:00",
+                "time_end": "06:00",
+                "child": [
+                    {
+                        "productId": 1095027,
+                        "shopId": 72,
+                        "schoolId": 44,
+                        "productName": "测试四",
+                        "selfProductCode": "WNWL2230253008",
+                        "salePrice": 30,
+                        "productStock": {
+                            "stockId": null,
+                            "quantity": null,
+                            "postQuantity": null,
+                            "saleQuantity": 41
+                        },
+                        "quarterCode": "229",
+                        "quarter": "秋季",
+                        "classMode": "走读;住宿;在线",
+                        "grade": "高一",
+                        "subject": "物理",
+                        "subjectId": "274",
+                        "classPeriod": "6,05:00~06:00",
+                        "teacherCode": "TCsdf632",
+                        "teacherName": "李四",
+                        "teachingMethod": "常规面授",
+                        "lessonPeriod": 60,
+                        "lessonNumber": 1,
+                        "currentCount": 41,
+                        "startClassTime": "2027-01-02 05:00:00",
+                        "endClassTime": "2027-01-02 06:00:00",
+                        "areaCode": "ARQD07",
+                        "areaName": "玄武门-正门",
+                        "courseLocationDisplay": "L测试",
+                        "courseTimeDisplay": "L测试",
+                        "classLevelName": "不区分",
+                        "allClassPeriod": "6,05:00~06:00",
+                        "weeks": [
+                            "周六"
+                        ],
+                        "groupQuarterId": "229",
+                        "groupQuarterName": "秋季",
+                        "groupNumberPeriodsId": "6",
+                        "groupNumberPeriodsName": "周六",
+                        "groupNumberPeriodType": 0,
+                        "groupClassPeriod": "05:00~06:00",
+                        "groupClassPeriodStart": "05:00",
+                        "groupClassPeriodEnd": "06:00",
+                        "periodShowName": "周六",
+                        "index": 0,
+                        "studentBusyState": false,
+                        "isBusy": false
+                    }
+                ]
+            }
+        ],
+        "areaNames": "南京路校区"
+    }
+]
